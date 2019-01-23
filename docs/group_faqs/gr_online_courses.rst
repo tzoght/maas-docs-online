@@ -9,7 +9,7 @@ Udemy Courses
 
 On Github
 ------------------
-- `Samples on Github <https://dev.solace.com/get-started/send-receive-messages/>`_
+- `Samples on Github <https://github.com/solacesamples/>`_
 
 Online References
 ------------------
